@@ -26,6 +26,7 @@ while access == False:
   password = (input("Enter password")).strip()
   if username == "admin" and password == "12345":
     print("Access granted")
+    access = True
   else:
     print("Access denied")
   if count == 3:
