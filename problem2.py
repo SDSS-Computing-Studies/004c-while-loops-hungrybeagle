@@ -20,3 +20,4 @@ i = 1
 num = int(input("Enter a number"))
 while i <=12:
   print(i * num, end=" ")
+  i = i + 1
