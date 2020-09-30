@@ -15,7 +15,7 @@ str password
 
 outputs:
 Access granted
-Acces denied
+Access denied
 """
 
 access = False
