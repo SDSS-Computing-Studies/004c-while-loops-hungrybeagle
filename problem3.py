@@ -18,7 +18,7 @@ a = 0
 b = 1
 c = 1
 
-while c < 100:
+while a < 100:
   print(str(b), end=" ")
   a = b
   b = c
